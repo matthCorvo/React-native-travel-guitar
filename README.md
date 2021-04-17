@@ -1,7 +1,7 @@
 # React-native-travel-guitar
 Travel guitar application mobile presentation de guitares de voyage
 
-Application créée en React Native, 
+Application développer avec React Native, 
 
 ##  Travel guitar application : DEMO
 
